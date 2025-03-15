@@ -92,12 +92,12 @@ Dailoz follows the Clean Architecture pattern, separating concerns into distinct
 
 1. Clone the repository
    ```
-   git clone https://github.com/yourusername/dailoz.git
+   git clone https://github.com/nanda-wk/dailoz-flutter-riverpod.git
    ```
 
 2. Navigate to the project directory
    ```
-   cd dailoz
+   cd dailoz-flutter-riverpod
    ```
 
 3. Install dependencies
